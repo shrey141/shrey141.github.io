@@ -1,0 +1,50 @@
+# Site
+repository: sproogen/resume-theme
+favicon: images/favicon.ico
+
+# Personal info
+name: Shrey Patel
+title: Engineer
+email: shreypatel101@gmail.com
+
+# Social links
+#twitter_username: facespics
+github_username:  shrey141
+# dribbble_username: jekyll
+# facebook_username: jekyll
+# flickr_username: jekyll
+#instagram_username: chillwildlife
+linkedin_username: shreypatel101
+# pinterest_username: jekyll
+#youtube_username: globalmtb
+# googleplus_username: +jekyll
+
+# About Section
+# about_title: About Me
+about_profile_image: images/profile.jpg
+about_content: | # this will include new lines to allow paragraphs
+  Engineer with 5 years of experience in AWS, software development, operations, problem solving, and capacity & performance analytics. Passionate about application reliability and automating everything. Enjoy working on a variety of different projects and try to continuously improve systems and processes to drive business success.
+
+# Projects Section
+# projects_title: Projects
+
+# Experience Section
+# experience_title: Experience
+
+# Education Section
+# educaton_title: Education
+
+# Footer
+footer_show_references: true
+
+# Build settings
+remote_theme: sproogen/resume-theme
+
+sass:
+  sass_dir: _sass
+  style: compressed
+
+plugins:
+ - jekyll-seo-tag
+
+theme: jekyll-theme-minimal
