@@ -6,11 +6,11 @@
   quote: >
    Solving 21st century problems by diging holes and making game changing solutions
   description: | # this will include new lines to allow paragraphs
-    Architected and built a scalable solution to create an AWS Account Vending Machine from the ground up
-    Built a serverless application within AWS - DynamoDB, Lambda, S3, SQS,
-    Wrote Terraform modules so multiple application teams can utilize them to deploy common resources
-    Upskill clients by providing 1:1 training on Python, DevOps, IaC, and AWS
-    Worked with Product Owners to groom backlogs and gather requirements
+    * Architected and built a scalable solution to create an AWS Account Vending Machine from the ground up
+    * Built a serverless application within AWS - DynamoDB, Lambda, S3, SQS,
+    * Wrote Terraform modules so multiple application teams can utilize them to deploy common resources
+    * Upskill clients by providing 1:1 training on Python, DevOps, IaC, and AWS
+    * Worked with Product Owners to groom backlogs and gather requirements
 
 - layout: left
   company: TransUnion
@@ -18,9 +18,9 @@
   job_title: Site Reliability Engineer
   dates: February 2018 - August 2018
   description: | # this will include new lines to allow paragraphs
-    Developed automation and deployment utilities using Powershell, Python to minimize delivery times of monthly capacity and performance reporting from 3 weeks to 2 hours, increasing productivity by 70%
-    Wrote documentation on best practices in the team about writing code, deployment, and bring in knowledge of new technologies or tools
-    Utilized Splunk for performance analytics to scale environment for growth
+    * Developed automation and deployment utilities using Powershell, Python to minimize delivery times of monthly capacity and performance reporting from 3 weeks to 2 hours, increasing productivity by 70%
+    * Wrote documentation on best practices in the team about writing code, deployment, and bring in knowledge of new technologies or tools
+    * Utilized Splunk for performance analytics to scale environment for growth
 
 - layout: left
   company: Accenture
@@ -30,11 +30,11 @@
   quote: >
    High performance Delivered
   description: | # this will include new lines to allow paragraphs
-    Evaluated and implemented new storage technology in production which lead to capacity cost savings of $20,000/month and meet SLAs
-    Designed, Tested, and Implemented a net new build of Networker 9.x
-    Actively managed, improved, automated, and monitored multi-Region AWS hosted environments, including backups, and scaling
-    Performed collaborative root cause analysis of production issues
-    Managed remote operational resources across geo data centers
+    * Evaluated and implemented new storage technology in production which lead to capacity cost savings of $20,000/month and meet SLAs
+    * Designed, Tested, and Implemented a net new build of Networker 9.x
+    * Actively managed, improved, automated, and monitored multi-Region AWS hosted environments, including backups, and scaling
+    * Performed collaborative root cause analysis of production issues
+    * Managed remote operational resources across geo data centers
 
 - layout: left
   company: Johnson Bank
@@ -42,9 +42,9 @@
   job_title: Network & Telecommunications Engineer
   dates: May 2014 - May 2016
   description: | # this will include new lines to allow paragraphs
-    Front-line troubleshooting, Level II/III application support, Active Directory, SharePoint 2013, RightFax 10.6, Cisco Call Manager 9.1, Cisco Unity, URL filtering via Palo Alto, and mapping department drives to facilitate day-to-day operations
-    Microsoft SharePoint analytics to identify unused SharePoint sites, archived and deleted from production SharePoint 2010 servers to reduce vulnerability risk, and increase security within the infrastructure
-    Monitored and managed network devices via Cisco Prime, Cisco Identity Services Engine (ISE), SolarWinds Orion to evaluate branch performance
+    * Front-line troubleshooting, Level II/III application support, Active Directory, SharePoint 2013, RightFax 10.6, Cisco Call Manager 9.1, Cisco Unity, URL filtering via Palo Alto, and mapping department drives to facilitate day-to-day operations
+    * Microsoft SharePoint analytics to identify unused SharePoint sites, archived and deleted from production SharePoint 2010 servers to reduce vulnerability risk, and increase security within the infrastructure
+    * Monitored and managed network devices via Cisco Prime, Cisco Identity Services Engine (ISE), SolarWinds Orion to evaluate branch performance
 
 - layout: left
   company: Procellis Technology, Inc
@@ -52,8 +52,8 @@
   job_title: Information Technology Engineer
   dates: August 2013 - May 2014
   description: | # this will include new lines to allow paragraphs
-    Implemented CRM into the company’s’ infrastructure to track client orders and relationship
-    Conducted research on technology products to gain a deeper understanding of mid-market offerings for backup/recovery and unified storage solutions as well as key features of Data Domain, Avamar, and VNXe
+    * Implemented CRM into the company’s’ infrastructure to track client orders and relationship
+    * Conducted research on technology products to gain a deeper understanding of mid-market offerings for backup/recovery and unified storage solutions as well as key features of Data Domain, Avamar, and VNXe
 
 - layout: left
   company: UW-Parkside Career & Advising Center
@@ -61,5 +61,5 @@
   job_title: Survey Development Intern
   dates: August 2013 - December 2013
   description: | # this will include new lines to allow paragraphs
-    Designed, created, and implemented survey for employers to report employment information regarding UW-Parkside students and alumni to understand community employment needs and predict future needs
-    Updated database information, analyzed data, compiled reports, and created statistical charts to display results for administrative purposes
+    * Designed, created, and implemented survey for employers to report employment information regarding UW-Parkside students and alumni to understand community employment needs and predict future needs
+    * Updated database information, analyzed data, compiled reports, and created statistical charts to display results for administrative purposes

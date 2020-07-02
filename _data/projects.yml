@@ -1,27 +1,27 @@
 - layout: left
   name: AWS Account Vending Machine
   description: | # this will include new lines to allow paragraphs
-    Architected a scalable solution while contributing as a lead developer on the team
-    Created Jenkins pipelines to orcasterte the deployment
-    Wrote Python scripts to interface with multiple systems by leveraging RESTful APIs
-    Wrote Data Driven Terraform modules to deploy standard resources like VPC, Lambdas, EC2, Subnets, Security Groups, ACLs, KMS
+    * Architected a scalable solution while contributing as a lead developer on the team
+    * Created Jenkins pipelines to orcasterte the deployment
+    * Wrote Python scripts to interface with multiple systems by leveraging RESTful APIs
+    * Wrote Data Driven Terraform modules to deploy standard resources like VPC, Lambdas, EC2, Subnets, Security Groups, ACLs, KMS
 
 - layout: left
   name: Serverless Files Processor
   description: | # this will include new lines to allow paragraphs
-    A scalable app to process hundreds of files with thousands of rows
-    App utilizes DynamoDB, Lambda, S3, and SQS - written in Java
-    Wrote Terraform modules, Jenkins pipelines, Java based Lambdas
-    Trained team members on how to utilize Terraform, Vault, and CICD Tools
+    * A scalable app to process hundreds of files with thousands of rows
+    * App utilizes DynamoDB, Lambda, S3, and SQS - written in Java
+    * Wrote Terraform modules, Jenkins pipelines, Java based Lambdas
+    * Trained team members on how to utilize Terraform, Vault, and CICD Tools
 
 - layout: left
   name: Networker 9.x
   description: | # this will include new lines to allow paragraphs
-    Architected, budgeted, tested, implemented, and troubleshoot net new build of Networker 9.x from start to finish 
-    Data Collection Automation — Capacity and Performance - TransUnion
-    Wrote PowerShell and Python scripts to extract analytical data points from multiple systems located in different countries by leveraging RESTful APIs to showcase metrics in Tableau / Splunk
+    * Architected, budgeted, tested, implemented, and troubleshoot net new build of Networker 9.x from start to finish 
+    * Data Collection Automation — Capacity and Performance - TransUnion
+    * Wrote PowerShell and Python scripts to extract analytical data points from multiple systems located in different countries by leveraging RESTful APIs to showcase metrics in Tableau / Splunk
 
 - layout: left
   name: Cisco Call Manager 9.1
   description: | # this will include new lines to allow paragraphs
-    Tested, implemented, and troubleshoot new build of Cisco Call manager 9.1
+    * Tested, implemented, and troubleshoot new build of Cisco Call manager 9.1
